@@ -1,0 +1,14 @@
+SGName,Port,AllowedIP
+eks-remoteAccess-d6ca93f7-9457-0da2-e798-3dc1e5f37fc2,22,0.0.0.0/0
+launch-wizard-1,22,0.0.0.0/0
+launch-wizard-14,80,0.0.0.0/0
+launch-wizard-14,22,0.0.0.0/0
+launch-wizard-14,443,0.0.0.0/0
+launch-wizard-3,22,0.0.0.0/0
+newSG-ELB-ASG,80,0.0.0.0/0
+newSG-ELB-ASG,22,0.0.0.0/0
+newSG-ELB-ASG,443,0.0.0.0/0
+launch-wizard-2,80,0.0.0.0/0
+launch-wizard-2,22,0.0.0.0/0
+launch-wizard-2,443,0.0.0.0/0
+SG-BINDwork,22,0.0.0.0/0

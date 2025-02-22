@@ -1,0 +1,5 @@
+IAMRoleName,PolicyName
+AmazonEKSPodIdentityAmazonVPCCNIRole,AdministratorAccess
+AnkitEKS_NODE-policy,AdministratorAccess
+aws_task_ECS,AdministratorAccess
+pratik-aryan-ankit,AdministratorAccess
